@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/shapes">
+        <file>line.png</file>
+        <file>circle.png</file>
+        <file>ellipse.png</file>
+        <file>pencil.png</file>
+        <file>rect.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

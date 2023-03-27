@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/select">
+        <file>move.png</file>
+        <file>delete.png</file>
+        <file>copy.png</file>
+        <file>paste.png</file>
+        <file>fill.png</file>
+        <file>unfill.png</file>
+        <file>cut.png</file>
+        <file>select.png</file>
+    </qresource>
+</RCC>
