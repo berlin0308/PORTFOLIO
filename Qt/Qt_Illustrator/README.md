@@ -25,7 +25,7 @@ Open Qt Creator, select "Open File" and pick the Qt project file "Qt_Illustrator
 
 <img src="https://github.com/berlin0308/PORTFOLIO/blob/main/Qt/Qt_Illustrator/images/instruction_3.png" alt="image" width="700" height="350">
 
-Click on "Built" button then click on "Run" to run the code
+Click on "Built" button then "Run" to execute
 
 <img src="https://github.com/berlin0308/PORTFOLIO/blob/main/Qt/Qt_Illustrator/images/instruction_4.png" alt="image" width="700" height="350">
 
