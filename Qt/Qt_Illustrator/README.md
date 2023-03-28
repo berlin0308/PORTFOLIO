@@ -29,4 +29,4 @@ Click on "Built" button then "Run" to execute
 
 <img src="https://github.com/berlin0308/PORTFOLIO/blob/main/Qt/Qt_Illustrator/images/instruction_4.png" alt="image" width="700" height="350">
 
-In case an error occurs during this process, please check the includepath in the file.
+In case an error occurs during this process, check the includepath in the ".pro" file.
