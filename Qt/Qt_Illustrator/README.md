@@ -12,7 +12,17 @@ Unzip the folder, and click on the executable file "Qt_Illustrator.exe"
 
 Start your journey! (with first clicking "File" to generate a new canvas)
 
-<img src="https://github.com/berlin0308/PORTFOLIO/blob/main/Qt/Qt_Illustrator/images/instruction_2.png" alt="image" width="500" height="350">
+<img src="https://github.com/berlin0308/PORTFOLIO/blob/main/Qt/Qt_Illustrator/images/instruction_2.png" alt="image" width="450" height="350">
 
-## Running the code on Qt creator
+## Running on Qt creator
 
+### Requirements
+- Qt version: Qt6 (6.3.1)
+- OpenCv has been installed
+
+### Open & Run the code
+Open Qt Creator, select "Open File" and pick the Qt project file "Qt_Illustrator.pro"
+
+<img src="https://github.com/berlin0308/PORTFOLIO/blob/main/Qt/Qt_Illustrator/images/instruction_3.png" alt="image" width="700" height="350">
+
+Click on "Built" button then click on "Run" to run the code 
