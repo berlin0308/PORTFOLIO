@@ -1,5 +1,9 @@
 # Qt Illustrator: a painting application
-With the illustrator developed using Qt framework and C++ as programming language, everyone can unleash their creativity on this canvas.
+With the illustrator developed using Qt framework and C++, everyone can unleash their creativity on this canvas.
+
+## Features
++ aaa
++ bbb
 
 ## Running the application
 Download the compressed file below.
