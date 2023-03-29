@@ -1,0 +1,125 @@
+#include <iostream>
+#include<string>
+#include <fstream>
+#include<cstdlib>
+#include<iomanip>
+
+using namespace std;
+
+int answer1;
+int answer2;
+string answer3;
+
+
+class MovieReview
+{
+  private:
+    string movieTitle;
+    int totalScore;
+    int numRating;
+    int aveScore;
+
+  public:
+    MovieReview(string ,int );
+    string getMovieTitle(){return movieTitle;} ;
+    int getTotalScore(){return totalScore;};
+    int getNumRating(){return numRating;};
+    int getAveScore(){return aveScore;};// accessor
+
+    void setMovieTitle(string mt){movieTitle=mt;};
+    void setTotalScore(int ts){totalScore+=ts;};
+    void setNumRating(int nr){numRating=nr;};
+    void setAveScore(int as){aveScore=as;};  // mutator
+    void addScore(string,int);
+    void calculateAveScore(string,int);
+};
+
+
+
+
+
+
+void readData()
+{
+  
+  int i=0;
+  int k;
+  int rate[100];
+  string movie[100];
+  fstream list;
+  list.open("RatingList.txt");
+  if (list.fail())  //if file can not be opened successfully, exit
+  {
+    cout << "The file can not be opened successfully." << endl;
+    exit(1);
+  }
+  while (list.good())  
+  {
+    string aaa="\0",bbb;
+    while(list>>bbb)
+    {
+      if(bbb=="|")
+      {
+         list>>k;
+         rate[i]=k;
+      }
+      else
+      aaa=aaa+" "+bbb;
+    }
+    movie[i]=aaa;
+    cout<<movie[i]<<endl;
+    cout<<" "<<rate[i]<<endl;
+    i++;
+  }
+  list.close();
+}
+
+int main() 
+{
+  fstream list;
+  string str,aaa,sss[20]={};
+  char a;
+  int count;
+  list.open("RatingList.txt");
+  while (list>>a)
+  count++;
+  //char *p=new char[count];
+
+  int n=0,sum=0,k,r[20]={0};
+  if (list.fail())  //if file can not be opened successfully, exit
+  {
+    cout << "The file can not be opened successfully." << endl;
+    exit(1);
+  }
+  while (list.good())  //calculate the total number of person
+  {
+    while(list>>aaa&& aaa!="|")
+    {
+      str=str+" "+aaa;
+    }
+    while(list>>aaa && aaa=="|")
+    {
+      list>>k;
+      n++;
+    }
+    cout<<str<<endl;
+   
+  }
+  answer1=n;
+ 
+
+  //MovieReview T;
+  list.close();
+  //readData(T);
+  // addScore(T,n);
+  // calculateAveScore(T,n);
+  //T.getMovieTitle();
+  //T.getTotalScore();
+  //T.getNumRating();
+  //T.getAveScore();
+  //delete[] p;
+  return 0;
+}
+
+  void addScore(MovieReview,int);
+  void calculateAveScore(MovieReview,int);

@@ -1,0 +1,6 @@
+MovieReview::MovieReview(string mt,int rate)
+{
+  movieTitle=mt;
+  addScore(mt,rate);
+  calculateAveScore(mt,rate);
+}
