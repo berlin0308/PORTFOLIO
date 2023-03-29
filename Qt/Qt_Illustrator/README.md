@@ -16,7 +16,7 @@ With the illustrator developed using Qt framework and C++, everyone can unleash 
 ## Notes
 + Integrated **OpenCv** to conduct Computer Vision tenchniques
 + Utilized **stacks of graphic operations**(such as adding a circle, fill the shape, and import a .txt file) and **their relevant parameters**(such as location, color, and brush size) to implement the Undo and Redo functionality
-+ Implemented Selection functionality using geometric method to identify whether a selection frame covers a certain shape
++ Implemented Selection functionality using geometric method to identify whether a selection frame covers a certain shape including rectangles, circles, and ellipses
 
 
 ## Running the application
