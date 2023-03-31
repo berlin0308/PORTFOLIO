@@ -12,5 +12,5 @@ These projects were completed as part of university courses. The courses compris
  
 + **Pratical Data Structures and Algorithms |** Focused on theoretical comprehension and practical application of Algorithms and Data Structures using *Java*.
 
-+ ** Principles and Applications of Microcontrollers-Mechatronics |** nn
++ **Principles and Applications of Microcontrollers-Mechatronics |** Implement *Arduino* and *AVR ATmega328P microcontroller* using assembly language to various applications, including mechatronic systems.   
  
