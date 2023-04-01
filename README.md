@@ -22,4 +22,8 @@ Recognition and Analysis of Dairy Calf Behaviors |** An ongoing research project
 
 ### Competitions
 
+I have participated in the **Field Robot Competition** twice, which aims to challenge teams to design and build robots capable of executing a variety of tasks with precision and efficiency.
+
+
+
 ### Qt
