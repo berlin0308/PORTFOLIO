@@ -24,6 +24,19 @@ Recognition and Analysis of Dairy Calf Behaviors |** An ongoing research project
 
 I have participated in the **Field Robot Competition** twice, which aims to challenge teams to design and build robots capable of executing a variety of tasks with precision and efficiency.
 
-
++ **2021 Field Robot Competition |** Autonomous Navigation, Object Detection, Robotic Arm Gripping Objects
++ **2022 Field Robot Competition |** Autonomous Navigation, Object Detection *(YOLOv4-tiny)*, Automated Irrigation
 
 ### Qt
+
+These are side projects developed using the Qt framework.
+
++ **Qt_Illustrator |** A computer graphics software that offers features such as drawing with a brush, importing text or image files, and selecting and transforming graphics like copy, paste, and move.
++ **Pixel_Palette |** An image editing GUI that allows color adjustments, flipping, and applying filters to images.
+
+## Contact Information
+
++ **Po-Lin Chen, Taipei, Taiwan**
++ **Email Address:** berlinnn3388@gmail.com
++ **GitHub Page:** https://github.com/berlin0308/PORTFOLIO
+
