@@ -4,11 +4,11 @@
 
 **Team Name |** Handsome_Field_Robot
 
-**School |** National Taiwan University, NTU
+**School |** National Taiwan University
 
 
 
-**Location |** National Pingtung University of Science and Technology, NPUST
+**Location |** National Pingtung University of Science and Technology
 
 **Ranking |** 8th Place out of 160 participants 
 
@@ -37,7 +37,7 @@
 ## Skills and Tools
 
 + Programming Languages: **Python**, **Arduino**
-+ Libraries: **OpenCv**, **Pyserial** for Linux-Arduino serial trasmittance
++ Libraries: **OpenCv**, **Pyserial** *for Linux-Arduino serial trasmittance*
 + Embedded System: **Jetson TX2** *with a powerful NVIDIA Pascal-based GPU that accelerates various computational tasks*
 + Hardware Integration: **Arduino Uno** and **Arduino Mega 2560**
 + 3D modeling using *SolidWorks* and using *3D Printing* or *Laser Cutting* for manufacturing
