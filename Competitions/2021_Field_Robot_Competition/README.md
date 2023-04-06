@@ -15,8 +15,6 @@
 
 ## Features
 
-- **NVIDIA Jetson TX2** *(Embedded System with a powerful NVIDIA Pascal-based GPU that accelerates various computational tasks)*
-- **Arduino Uno** and **Arduino Mega 2560** * for hardware integration*
 -	**Autonomous Robot Navigation** using image processing and ultrasonic sensors
 - **Fruit Recognition and Picking** using YOLOv4-Tiny and a robotic arm connected to a gripper
 - **Temperature and Humidity sensing** with DHT-11 sensors
@@ -39,8 +37,9 @@
 ## Skills and Tools
 
 + Programming Languages: **Python**, **Arduino**
-+ Libraries: **OpenCv**, **Pyserial**(for Linux-Arduino serial trasmittance)
++ Libraries: **OpenCv**, **Pyserial** for Linux-Arduino serial trasmittance
 + Embedded System: **Jetson TX2** *with a powerful NVIDIA Pascal-based GPU that accelerates various computational tasks*
 + Hardware Integration: **Arduino Uno** and **Arduino Mega 2560**
++ 3D modeling using *SolidWorks* and using *3D Printing* or *Laser Cutting* for manufacturing
 + [A Homemade GUI Tool](https://github.com/berlin0308/PORTFOLIO/tree/main/Qt/Pixel_Palette)
  for adjusting image processing parameters
