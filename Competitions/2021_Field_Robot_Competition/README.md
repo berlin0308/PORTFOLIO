@@ -2,7 +2,11 @@
 
 2021 NTU BME FieldRobotCompetition
 
-此為台灣大學生機系其一隊伍於屏東科技大學參加田間機器人競賽的軟體開發紀錄
+**Event Date |** October 21, 2021
+
+**Location |** National Pingtung University of Science and Technology, NPUST
+
+
 
 ## Features
 
