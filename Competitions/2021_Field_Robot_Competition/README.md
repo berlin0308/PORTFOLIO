@@ -1,8 +1,12 @@
-# Handsome_Field_Robot
-
-2021 NTU BME FieldRobotCompetition
+# 2021 Field Robot Competition
 
 **Event Date |** October 21, 2021
+
+**Team Name |** Handsome_Field_Robot
+
+**School |** National Taiwan University, NTU
+
+
 
 **Location |** National Pingtung University of Science and Technology, NPUST
 
