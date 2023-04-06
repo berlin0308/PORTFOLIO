@@ -1,5 +1,7 @@
 # 2021 Field Robot Competition
 
+## Event Information
+
 **Event Date |** October 21, 2021
 
 **Team Name |** Handsome_Field_Robot
