@@ -42,4 +42,4 @@
 + Libraries: **OpenCv**, **Pyserial**(for Linux-Arduino serial trasmittance)
 + Embedded System: **Jetson TX2** *with a powerful NVIDIA Pascal-based GPU that accelerates various computational tasks*
 + Hardware Integration: **Arduino Uno** and **Arduino Mega 2560**
-+ A Homemade Tool for adjusting image processing parameters
++ A Homemade GUI Tool for adjusting image processing parameters https://github.com/berlin0308/PORTFOLIO/tree/main/Qt/Pixel_Palette
