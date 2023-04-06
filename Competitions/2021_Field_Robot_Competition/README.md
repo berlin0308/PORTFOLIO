@@ -26,14 +26,14 @@
 
 ## Overview
 
-+ /Main - Python, Arduino main programs
-+ /Arduino - Arduino code
-+ /Arrow_detection - detecting Arrow's direction, distance with opencv
-+ /Lane_detection - finding path on synthetic grass with opencv
-+ /Fruit_detection - identifying Fruits, grab/drop them with the Arm
-+ /Carrot_finder - recognizing the Carrot instead of white radishes
-+ /Tests - camera, LED, serial, Arm, server motor, DHT, urltrasonic, IR sensor
-+ /Tools - useful tools for image processing 
++ **/Main |** Python, Arduino Main Programs
++ **/Arduino |** Hardware Testing Code
++ **/Arrow_detection |** Identify the Direction and Distance of an Arrow sign 
++ **/Lane_detection |** Robot Navigation along the designated path
++ **/Fruit_detection |** Fruit Recongition and Automatic Picking/ Droping
++ **/Carrot_finder |** Distinguish between Red and White Carrot
++ **/Tests |** Testing of Camera, LED, Serial Port, Robotic Arm, Server Motor, DHT, Ultrasonic, IR Sensors
++ **/Tools |** Homemade Tools for optimizing parameters 
 
 
 ## Skills and Tools
