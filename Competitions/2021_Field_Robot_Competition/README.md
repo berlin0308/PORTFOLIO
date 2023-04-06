@@ -15,16 +15,16 @@
 
 ## Features
 
-- NVIDIA Jetson TX2
-- Arduino Uno / Mega 2560
-- TX2-Arduino transmission via serial: /dev/ttyACM0
-- Mechanical Arm used to grab/drop objects
-- Lane tracking algorithm using opencv image processing
-- Fruit, Carrot, colored Box detection
-- Monitoring the Depth and the Temperature
-- Climbing on slanted synthetic grass surface 
+- **NVIDIA Jetson TX2** *(Embedded System with a powerful NVIDIA Pascal-based GPU that accelerates various computational tasks)*
+- **Arduino Uno** and **Arduino Mega 2560** * for hardware integration*
+-	**Autonomous Robot Navigation** using image processing and ultrasonic sensors
+- **Fruit Recognition and Picking** using YOLOv4-Tiny and a robotic arm connected to a gripper
+- **Temperature and Humidity sensing** with DHT-11 sensors
+- **Box, Sign, and Carrot Detection** using OpenCv 
+- **Hardware Design Improvement** for robot to ascend slopes
 
-## File Structure
+
+## Overview
 
 + /Main - Python, Arduino main programs
 + /Arduino - Arduino code
@@ -34,3 +34,12 @@
 + /Carrot_finder - recognizing the Carrot instead of white radishes
 + /Tests - camera, LED, serial, Arm, server motor, DHT, urltrasonic, IR sensor
 + /Tools - useful tools for image processing 
+
+
+## Skills and Tools
+
++ Programming Languages: **Python**, **Arduino**
++ Libraries: **OpenCv**, **Pyserial**(for Linux-Arduino serial trasmittance)
++ Embedded System: **Jetson TX2** *with a powerful NVIDIA Pascal-based GPU that accelerates various computational tasks*
++ Hardware Integration: **Arduino Uno** and **Arduino Mega 2560**
++ A Homemade Tool for adjusting image processing parameters
