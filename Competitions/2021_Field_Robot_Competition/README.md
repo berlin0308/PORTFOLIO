@@ -10,6 +10,7 @@
 
 **Location |** National Pingtung University of Science and Technology, NPUST
 
+**Ranking |** 8th Place out of 160 participants 
 
 
 ## Features
