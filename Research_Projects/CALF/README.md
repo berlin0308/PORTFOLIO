@@ -10,7 +10,7 @@
 
 ## Citation
 
-<div style="height: 200px; overflow-y: scroll;">
+<div style="height: 2000px; overflow-y: scroll;">
 
 @inproceedings{hara3dcnns,
   author={Kensho Hara and Hirokatsu Kataoka and Yutaka Satoh},
