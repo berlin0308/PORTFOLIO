@@ -10,14 +10,16 @@
 
 ## Citation
 
-<div style="height: 2000px; overflow-y: scroll;">
-
-@inproceedings{hara3dcnns,
+<details>
+  <summary>A Closer Look at Spatiotemporal Convolutions for Action Recognition
+</summary>
+  @inproceedings{hara3dcnns,
   author={Kensho Hara and Hirokatsu Kataoka and Yutaka Satoh},
   title={Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   pages={6546--6555},
   year={2018},
 }
+  
+</details>
 
-</div>
