@@ -17,7 +17,7 @@
 
 ## Running the Code
 
-The Guide of running the code and the trained model is available here
+The Guide of running the code and the trained model will be available [here]()
 
 ## Citation
 
