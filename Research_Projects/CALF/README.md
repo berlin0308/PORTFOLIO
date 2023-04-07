@@ -1,4 +1,4 @@
-# Application of Deep Learning Algorithms on Dynamic Video for Recognition and Analysis of Dairy Calf Behaviors
+# Application of Deep Learning Algorithms on Dynamic Video for Recognition and Analysis of Dairy Calf Behaviors (In Progress)
 
 ## Summary
 
@@ -10,7 +10,8 @@
 
 ## Outline
 
-+ 
++ **/DATA_PREP -** *Image Data Collected, Cleansed, and Transformed*
++ **/3D_RESNET -** *Training, Validation, Inference, and Evaluation*
 
 ## Citation
 
