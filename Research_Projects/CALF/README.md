@@ -12,6 +12,7 @@
 
 + **/DATA_PREP -** *Image Data Collected, Cleansed, and Transformed*
 + **/3D_RESNET -** *Training, Validation, Inference, and Evaluation*
++ **/RESULT -** *Model Performance and other outputs*
 + **/RaspberryPi -** *Code for Edge Computing on Raspberry Pi 4*
 
 ## Citation
