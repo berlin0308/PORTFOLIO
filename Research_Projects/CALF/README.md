@@ -8,12 +8,16 @@
 + **Develop a Real-time Monitoring and Alarm System** by integrating **Internet of Things (IoT)** technologies and leveraging Machine Learning for **Anomaly Detection**. 
 + The system is aimed to enhance the operational efficiency for farm managers and promotes the well-being of dairy calves.
 
-## Outline
+## Project Outline
 
 + **/DATA_PREP -** *Image Data Collected, Cleansed, and Transformed*
 + **/3D_RESNET -** *Training, Validation, Inference, and Evaluation*
 + **/RESULT -** *Model Performance and other outputs*
 + **/RaspberryPi -** *Code for Edge Computing on Raspberry Pi 4*
+
+## Running the Code
+
+The Guide of running the code and the trained model is available here
 
 ## Citation
 
