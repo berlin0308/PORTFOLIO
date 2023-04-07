@@ -8,6 +8,10 @@
 + **Develop a Real-time Monitoring and Alarm System** by integrating **Internet of Things (IoT)** technologies and leveraging Machine Learning for **Anomaly Detection**. 
 + The system is aimed to enhance the operational efficiency for farm managers and promotes the well-being of dairy calves.
 
+## Outline
+
++ 
+
 ## Citation
 
 <details>
