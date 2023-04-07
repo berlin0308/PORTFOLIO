@@ -17,7 +17,7 @@
 
 ## Running the Code
 
-The Guide of running the code and the trained model will be available [here]()
+The guide of running the code and the trained model will be available [here](https://github.com/berlin0308/PORTFOLIO/tree/main/Research_Projects/CALF/3D_RESNET)
 
 ## Citation
 
